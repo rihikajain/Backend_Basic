@@ -1,0 +1,20 @@
+.topbar{
+
+    background-color: skyblue;
+}
+
+.topbar img{
+    width: 100%;
+}
+
+
+#searchbtn :hover{ 
+    background-color: yellow ;
+}
+
+.cards{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
